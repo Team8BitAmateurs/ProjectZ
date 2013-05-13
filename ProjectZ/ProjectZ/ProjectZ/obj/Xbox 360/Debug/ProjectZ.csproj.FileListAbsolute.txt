@@ -1,0 +1,6 @@
+C:\Users\piero\Documents\GitHub\ProjectZ\ProjectZ\ProjectZ\ProjectZ\bin\Xbox 360\Debug\ProjectZ.exe
+C:\Users\piero\Documents\GitHub\ProjectZ\ProjectZ\ProjectZ\ProjectZ\bin\Xbox 360\Debug\ProjectZ.pdb
+C:\Users\piero\Documents\GitHub\ProjectZ\ProjectZ\ProjectZ\ProjectZ\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\piero\Documents\GitHub\ProjectZ\ProjectZ\ProjectZ\ProjectZ\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\piero\Documents\GitHub\ProjectZ\ProjectZ\ProjectZ\ProjectZ\obj\Xbox 360\Debug\ProjectZ.exe
+C:\Users\piero\Documents\GitHub\ProjectZ\ProjectZ\ProjectZ\ProjectZ\obj\Xbox 360\Debug\ProjectZ.pdb
