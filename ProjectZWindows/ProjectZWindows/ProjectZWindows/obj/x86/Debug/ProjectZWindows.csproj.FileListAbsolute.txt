@@ -1,0 +1,6 @@
+C:\Users\piero\Documents\GitHub\ProjectZ\ProjectZWindows\ProjectZWindows\ProjectZWindows\bin\x86\Debug\ProjectZWindows.exe
+C:\Users\piero\Documents\GitHub\ProjectZ\ProjectZWindows\ProjectZWindows\ProjectZWindows\bin\x86\Debug\ProjectZWindows.pdb
+C:\Users\piero\Documents\GitHub\ProjectZ\ProjectZWindows\ProjectZWindows\ProjectZWindows\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\piero\Documents\GitHub\ProjectZ\ProjectZWindows\ProjectZWindows\ProjectZWindows\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\piero\Documents\GitHub\ProjectZ\ProjectZWindows\ProjectZWindows\ProjectZWindows\obj\x86\Debug\ProjectZWindows.exe
+C:\Users\piero\Documents\GitHub\ProjectZ\ProjectZWindows\ProjectZWindows\ProjectZWindows\obj\x86\Debug\ProjectZWindows.pdb

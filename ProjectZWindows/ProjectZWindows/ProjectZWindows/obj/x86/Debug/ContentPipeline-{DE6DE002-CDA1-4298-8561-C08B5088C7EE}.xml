@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{DE6DE002-CDA1-4298-8561-C08B5088C7EE}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\piero\Documents\GitHub\ProjectZ\ProjectZWindows\ProjectZWindows\ProjectZWindowsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\piero\Documents\GitHub\ProjectZ\ProjectZWindows\ProjectZWindows\ProjectZWindows\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\piero\Documents\GitHub\ProjectZ\ProjectZWindows\ProjectZWindows\ProjectZWindows\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\piero\Documents\GitHub\ProjectZ\ProjectZWindows\ProjectZWindows\ProjectZWindows\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-05-13T18:11:25.9138-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
